@@ -1,7 +1,4 @@
 --target=~/.config
 --ignore=.stowrc
---ignore=README.md
---ignore=LICENCE
---ignore=.git
 --ignore=first_time_setup.sh
 
